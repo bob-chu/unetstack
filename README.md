@@ -13,5 +13,6 @@ How to Build:
    cd unetbsd
 3. Clone the NetBSD sources:
   git clone https://github.com/NetBSD/src.git
+
 4.Build the project:
   make clean; make
