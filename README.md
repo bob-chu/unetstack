@@ -8,7 +8,7 @@ FreeBSD based userspace tcp stack: Libuinet (https://github.com/pkelsey/libuinet
 How to Build:
 
 1. Clone the repository:
-    git clone git@github.com:bob-chu/unetbsd.git
+    git clone git@github.com:bob-chu/unetstack.git
 2. Navigate to the project directory:
    cd unetbsd
 3. Clone the NetBSD sources:
